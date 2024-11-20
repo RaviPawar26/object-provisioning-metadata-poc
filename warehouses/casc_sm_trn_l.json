@@ -1,0 +1,17 @@
+{
+  "warehouse": "casc_sm_trn_l",
+  "access_roles": ["cdp3_qas_casc_smartmnf_klake_rw", "CDP3_QAS_CASC_SM_XREF_MAP_RW","CDP3_DEVELOPMENT_SMART_MANUFACTURING_RO","CDP3_DEVELOPMENT_SMART_MANUFACTURING_RW","cdp3_prod_smartmnf_raw_rw","cdp3_qas_smartmnf_raw_rw","cdp3_qas_casc_mfg_klake_landing_rw","minerva_casc_smartmnf_klake_data_engineer","minerva_casc_smartmnf_klake_data_analyst","minerva_casc_smartmnf_klake_ops_processid"],
+  "business_owner": "p529397",
+  "technical_owner": "s476694",
+  "description": "Contains all the modelled and consumption side tables to be used by all the consumers of CASC Smart Manufacturing end users",
+  "enterprise_or_function":"CASC",
+  "clarizen_id": "1348905",
+  "cost_center": "9785:150228",
+  "warehosue_size": "LARGE",
+  "auto_suspend_in_seconds": 600,
+  "auto_resume": true,
+  "max_cluster_count": 10,
+  "scaling_policy": "ECONOMY",
+  "query_timeout_in_seconds": 3600,
+  "monthly_credit_limit": 500
+}

@@ -1,0 +1,13 @@
+{
+  "database": "DB_DT_D_MEF_TRNS", 
+  "schema": "Sc_DT_D_MEF_TRNS_PRD",
+  "read_active_directory":  "minerva_engineering_framework_engineer",
+  "write_active_directory": "minerva_engineering_framework_engineer",
+  "business_owner": "dcecchi1",
+  "technical_owner": "h347077",
+  "description": "Test db and schemas to represent the foundational transformed layer on minerva mef foundational db: to be used during the Minerva Engineering Framework (MEF) acceleration era",
+  "enterprise_or_function":"DTD",
+  "security_classification":"CONFIDENTIAL - RESTRICTED",
+  "clarizen_id": "P-1454117",
+  "spellcheck_exceptions": ["schemas", "mef"]
+}
